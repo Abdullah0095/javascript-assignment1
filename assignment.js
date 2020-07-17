@@ -8,7 +8,7 @@ function feetToMile(feet){
         return mile;
     }
 }
-         var measurement = feetToMile(25800);
+         var measurement = feetToMile(feet);
           console.log(measurement);
 
 
